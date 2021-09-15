@@ -1,1 +1,1 @@
-# snapshot.png
+# snapshot
